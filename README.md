@@ -27,6 +27,16 @@ Day job: RAG agents on Azure at **Ensight Data & AI**.
 | [**lg-webos-mirroring**](https://github.com/melihgurlek/lg-webos-mirroring) | My TV's Wi-Fi died. I didn't buy a new TV. [Here's why I didn't have to.](https://github.com/melihgurlek/lg-webos-mirroring/blob/main/FINDINGS.md) |
 | [**Match-3**](https://github.com/melihgurlek/Match-3-Case-Study) · [**Void Drifter**](https://github.com/melihgurlek/Project-Boost-Platformer-Game) | Two games. [Playable in your browser.](https://aciros.itch.io/) |
 
+**Currently researching**
+
+- **Reinforcement Learning from Human Frustration (RLHF):** reward signals derived from the volume of the keyboard
+- **Retrieval-Augmented Guessing (RAG)** for production incident response
+- **Zero-trust architecture**, applied primarily to my own code from last week
+- **Self-healing distributed systems** with fault tolerance through `except: pass`
+- **Infinite-context inference** via `tail -f`
+- **Hyperparameter search**, which has converged on `seed=42` across all experiments to date
+- **O(1) root-cause attribution** with `git blame`, pending the result I keep getting
+
 Python, Go, TypeScript, C#. Whatever you're using, I'll have it by Monday.
 
 If you're hiring: [LinkedIn](https://linkedin.com/in/melihgurlek). If you're a maintainer: check your security advisories.

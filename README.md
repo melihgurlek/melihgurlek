@@ -29,17 +29,15 @@ Day job: RAG agents on Azure at **Ensight Data & AI**.
 
 **Currently researching**
 
-- **Reinforcement Learning from Human Frustration (RLHF):** reward signals derived from the volume of the keyboard
-- **Room-temperature superconductivity:** LK-99 replication, in progress
-- **Retrieval-Augmented Guessing (RAG)** for production incident response
-- **P vs NP:** I have a truly marvelous proof, which this README is too narrow to contain
-- **Self-healing distributed systems** with fault tolerance through `except: pass`
-- **Dark matter localization:** current estimates place most of the universe's missing mass in `node_modules`
-- **Hyperparameter search**, which has converged on `seed=42` across all experiments to date
-- **Collatz conjecture:** verified by hand up to 27, which took longer than expected
-- **Heisenbug spectroscopy:** characterizing defects that vanish under observation
-- **Sprint estimation** under the spherical-cow approximation
-- **O(1) root-cause attribution** with `git blame`, pending the result I keep getting
+- **Ricci flow** on the CUDA–PyTorch version compatibility manifold
+- **Non-Abelian gauge symmetries** in transformer attention heads
+- **Ergodicity** of `npm install`
+- **Renormalization group methods** for legacy codebases
+- **Kolmogorov complexity** of commit messages
+- **Adiabatic quantum annealing** for merge conflict resolution
+- **Category-theoretic semantics** of YAML indentation
+- **Entropy production** in long-lived feature branches
+- **Galois-theoretic obstructions** to timezone handling
 
 Python, Go, TypeScript, C#. Whatever you're using, I'll have it by Monday.
 

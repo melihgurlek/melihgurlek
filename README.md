@@ -1,30 +1,32 @@
 ### Melih Gürlek
 
-AI engineer in Istanbul. I build LLM tools that aren't allowed to make things up, and I read other people's code looking for the bugs they missed.
+AI engineer. Istanbul.
 
-Currently building RAG agents on Azure at **Ensight Data & AI**. B.Sc. Computer Engineering, MEF University (Erasmus+ in Lisbon).
+I build language models that aren't allowed to lie, and I read other people's code for the bugs they didn't see. The second one is faster.
+
+Day job: RAG agents on Azure at **Ensight Data & AI**.
 
 **Security**
 
-- **[CVE-2026-95839](https://github.com/containerd/containerd/security/advisories/GHSA-vwhp-8p66-mq4f)**: containerd daemon crash from a malformed image digest (CVSS 6.5). Credited finder.
-- An accepted advisory in NSA's **Ghidra**, pending publication.
+- containerd sits under Docker and most of Kubernetes. One malformed digest crashes it. **[CVE-2026-95839](https://github.com/containerd/containerd/security/advisories/GHSA-vwhp-8p66-mq4f)**, credited.
+- The NSA has a bug report from me in **Ghidra**. They accepted it. Details when they publish.
 
 **Upstream**
 
-- [perses/shared#255](https://github.com/perses/shared/pull/255): fixed the panel links menu not opening inside the overflow menu (merged)
+- [perses/shared#255](https://github.com/perses/shared/pull/255): their panel links menu didn't open inside the overflow menu. Now it does. Merged.
 
 **Things I've built**
 
 | | |
 |---|---|
-| **AlignCV** | Turns a job posting into a tailored one-page resume, and every line cites what it came from, so nothing gets invented. Also scans job boards daily and says which postings are worth applying to. *Private for now, happy to demo.* |
-| [**lexiconweaver-core**](https://github.com/melihgurlek/lexiconweaver-core) | Human-in-the-loop web novel translation that keeps terminology consistent across hundreds of chapters. |
-| [**InsiderProject**](https://github.com/melihgurlek/InsiderProject) | Go transaction engine with JWT auth, a PostgreSQL-backed task queue, Redis, and Prometheus/Grafana SLO dashboards. |
-| [**GoodreadsScore**](https://github.com/melihgurlek/GoodreadsScore) | Chrome extension that shows Goodreads ratings on Amazon, Kitapyurdu and other bookstores. |
-| [**frostpeak-mail**](https://github.com/melihgurlek/frostpeak-mail) | A dark Nordic-fantasy theme for Gmail, with drifting fog and a dragon that crosses the sky now and then. |
-| [**lg-webos-mirroring**](https://github.com/melihgurlek/lg-webos-mirroring) | One-click screen mirroring to an old LG TV with a dead Wi-Fi module. The [write-up](https://github.com/melihgurlek/lg-webos-mirroring/blob/main/FINDINGS.md) covers the diagnosis and the dead ends. |
-| [**Match-3**](https://github.com/melihgurlek/Match-3-Case-Study) · [**Void Drifter**](https://github.com/melihgurlek/Project-Boost-Platformer-Game) | Unity games, both [playable in the browser](https://aciros.itch.io/). |
+| **AlignCV** | Tailors a resume to any job posting and cannot invent a single line. It also reads the job boards every morning so I don't have to. *Private. Ask.* |
+| [**lexiconweaver-core**](https://github.com/melihgurlek/lexiconweaver-core) | Machine translators rename the same character three times in ten chapters. This one doesn't. |
+| [**InsiderProject**](https://github.com/melihgurlek/InsiderProject) | A Go transaction engine with a concurrent task queue on PostgreSQL, Redis, and p95 latency dashboards, because I wanted to know. |
+| [**GoodreadsScore**](https://github.com/melihgurlek/GoodreadsScore) | Goodreads ratings on Amazon and Kitapyurdu. I shouldn't need a second tab. |
+| [**frostpeak-mail**](https://github.com/melihgurlek/frostpeak-mail) | Gmail, but there's a dragon. |
+| [**lg-webos-mirroring**](https://github.com/melihgurlek/lg-webos-mirroring) | My TV's Wi-Fi died. I didn't buy a new TV. [Here's why I didn't have to.](https://github.com/melihgurlek/lg-webos-mirroring/blob/main/FINDINGS.md) |
+| [**Match-3**](https://github.com/melihgurlek/Match-3-Case-Study) · [**Void Drifter**](https://github.com/melihgurlek/Project-Boost-Platformer-Game) | Two games. [Playable in your browser.](https://aciros.itch.io/) |
 
-**Mostly in** Python, Go, TypeScript and C#, with Azure AI Search, Copilot Studio, FastAPI, React and Unity.
+Python, Go, TypeScript, C#. Whatever you're using, I'll have it by Monday.
 
-[LinkedIn](https://linkedin.com/in/melihgurlek)
+If you're hiring: [LinkedIn](https://linkedin.com/in/melihgurlek). If you're a maintainer: check your security advisories.

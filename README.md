@@ -30,11 +30,15 @@ Day job: RAG agents on Azure at **Ensight Data & AI**.
 **Currently researching**
 
 - **Reinforcement Learning from Human Frustration (RLHF):** reward signals derived from the volume of the keyboard
+- **Room-temperature superconductivity:** LK-99 replication, in progress
 - **Retrieval-Augmented Guessing (RAG)** for production incident response
-- **Zero-trust architecture**, applied primarily to my own code from last week
+- **P vs NP:** I have a truly marvelous proof, which this README is too narrow to contain
 - **Self-healing distributed systems** with fault tolerance through `except: pass`
-- **Infinite-context inference** via `tail -f`
+- **Dark matter localization:** current estimates place most of the universe's missing mass in `node_modules`
 - **Hyperparameter search**, which has converged on `seed=42` across all experiments to date
+- **Collatz conjecture:** verified by hand up to 27, which took longer than expected
+- **Heisenbug spectroscopy:** characterizing defects that vanish under observation
+- **Sprint estimation** under the spherical-cow approximation
 - **O(1) root-cause attribution** with `git blame`, pending the result I keep getting
 
 Python, Go, TypeScript, C#. Whatever you're using, I'll have it by Monday.

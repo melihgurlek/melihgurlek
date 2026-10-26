@@ -14,7 +14,7 @@ I build LLM systems that aren't allowed to lie, and I read other people's code f
 
 - **AlignCV**: tailors a resume to any job posting and cannot invent a single line. It also reads the job boards every morning so I don't have to. *Private. Ask.*
 - **[lexiconweaver-core](https://github.com/melihgurlek/lexiconweaver-core)**: machine translators rename the same character three times in ten chapters. This one doesn't.
-- **[InsiderProject](https://github.com/melihgurlek/InsiderProject)**: a Go transaction engine from my Insider internship. Concurrent task queue on PostgreSQL, Redis in front, and a p95 latency dashboard, because I wanted to know.
+- **[InsiderProject](https://github.com/melihgurlek/InsiderProject)**: a Go transaction engine from my Insider internship. Concurrent task queue on PostgreSQL, Redis in front, and a p95 latency dashboard, because I wanted the number.
 - **[GoodreadsScore](https://github.com/melihgurlek/GoodreadsScore)**: Goodreads ratings on Amazon and Kitapyurdu. I shouldn't need a second tab.
 - **[frostpeak-mail](https://github.com/melihgurlek/frostpeak-mail)**: Gmail, but there's a dragon.
 - **[lg-webos-mirroring](https://github.com/melihgurlek/lg-webos-mirroring)**: my TV's Wi-Fi died. I didn't buy a new TV. [Here's why I didn't have to.](https://github.com/melihgurlek/lg-webos-mirroring/blob/main/FINDINGS.md)

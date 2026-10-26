@@ -27,6 +27,18 @@ Day job: RAG agents on Azure at **Ensight Data & AI**.
 | [**lg-webos-mirroring**](https://github.com/melihgurlek/lg-webos-mirroring) | My TV's Wi-Fi died. I didn't buy a new TV. [Here's why I didn't have to.](https://github.com/melihgurlek/lg-webos-mirroring/blob/main/FINDINGS.md) |
 | [**Match-3**](https://github.com/melihgurlek/Match-3-Case-Study) · [**Void Drifter**](https://github.com/melihgurlek/Project-Boost-Platformer-Game) | Two games. [Playable in your browser.](https://aciros.itch.io/) |
 
+**Currently researching**
+
+- **Ricci flow** on the CUDA–PyTorch version compatibility manifold
+- **Non-Abelian gauge symmetries** in transformer attention heads
+- **Ergodicity** of `npm install`
+- **Renormalization group methods** for legacy codebases
+- **Kolmogorov complexity** of commit messages
+- **Adiabatic quantum annealing** for merge conflict resolution
+- **Category-theoretic semantics** of YAML indentation
+- **Entropy production** in long-lived feature branches
+- **Galois-theoretic obstructions** to timezone handling
+
 Python, Go, TypeScript, C#. Whatever you're using, I'll have it by Monday.
 
 If you're hiring: [LinkedIn](https://linkedin.com/in/melihgurlek). If you're a maintainer: check your security advisories.
